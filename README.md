@@ -6,7 +6,6 @@
 </div>
 <div style="display: inline_block"><br>
   
-  ... e apesar de ser só o começo o primeiro passo foi dado. Show? Show!
   
   <img align="center" alt="Alfredo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alfredo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
